@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "312139122278",
+    "project_id": "news-articles-c682f",
+    "storage_bucket": "news-articles-c682f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312139122278:android:3ffa961794b456d9638fa7",
+        "android_client_info": {
+          "package_name": "com.vaibhav.newsarticles"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTxdghHuG87IR6RHCwQj5s4Ik1oBbOW_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
